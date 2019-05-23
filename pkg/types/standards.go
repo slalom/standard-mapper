@@ -1,6 +1,6 @@
 package types
 
-// Standard defines tye type and revion of a Standard along with it's elements
+// Standard defines type and revion of a Standard along with it's elements
 type Standard struct {
 	Type     string `json:"type"`
 	Rev      string `json:"rev"`
